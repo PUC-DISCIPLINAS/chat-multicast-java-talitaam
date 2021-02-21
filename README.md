@@ -1,5 +1,7 @@
 # Chat multicast
 
+Aluna: Talita Arantes Melo
+
 Entrada é o número da sala.
 String comandoEntrada = "Entrar-" + nomeUsuario + "- Sala-" + entrada;
 String comandoSaida = "Sair-" + nomeUsuario + "- da sala -" + entrada;
